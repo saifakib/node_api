@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 const valid = require('validator');
 const Schema = mongoose.Schema;
 
+//User model process
 const registerSchema = new Schema({
     email : {
         type : String,

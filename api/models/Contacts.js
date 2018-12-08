@@ -2,6 +2,7 @@ var mongoose = require('mongoose');
 const validator = require('validator');
 const Schema = mongoose.Schema;
 
+//Contact model process
 const CotactSchema = new Schema({
     name : {
         type : String,
