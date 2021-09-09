@@ -1,4 +1,4 @@
-# Node Basic API Server
+# Node.js Basic API Server
 Building a RESTful API Using Node and Express 4
 
 ### Instructions
